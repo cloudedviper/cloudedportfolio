@@ -1,5 +1,5 @@
 html {
-    line-height: 1.15;
+    line-height: 1;
   }
   * {
     -webkit-box-sizing: border-box;
@@ -35,7 +35,7 @@ html {
   @media screen and (min-width: 768px) {
     h2 {
       font-size: 70px;
-      color: #848484;
+      color: #190369;
       font-weight: 700;
     }
   }
@@ -150,7 +150,7 @@ html {
   }
   @media screen and (min-width: 768px) {
     .site-header button {
-      top: 20px;
+      top: 10px;
     }
   }
   @media screen and (min-width: 1250px) {
@@ -170,7 +170,7 @@ html {
   }
   .banner .banner--content {
     max-width: 1400px;
-    height: auto;
+    height: min-content;
     display: block;
     margin: 0 auto;
     background: url("./assets/svg/soap.svg");
@@ -508,7 +508,7 @@ html {
     content: '\201D';
   }
   #pricing {
-    background-color: #DEF0FF;
+    background-color: #09a878;
   }
   #pricing .pricing--content {
     display: block;
@@ -540,7 +540,7 @@ html {
   }
   #pricing .pricing--content .item .price {
     font-size: 36px;
-    color: #cb2027;
+    color: #27087d;
     font-weight: 700;
   }
   #pricing .pricing--content .item img {
@@ -561,7 +561,7 @@ html {
     text-transform: uppercase;
     border: 1px solid #222;
     text-decoration: none;
-    color: #FFF;
+    color: #3d0bbd;
     background: #222;
   }
   #contact .contact-detail, #contact address {
