@@ -306,6 +306,19 @@ html {
     -ms-flex-preferred-size: 30%;
         flex-basis: 30%;
   }
+  /* The animation code */
+@keyframes left {
+  from {background-color: rgb(46, 9, 167);}
+  to {background-color: yellow;}
+}
+/* The element to apply the animation to */
+.left {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(46, 9, 167);
+  animation-name: left;
+  animation-duration: 4s;
+}
   #skill .skill--content .left h2 {
     font-size: 36px;
     color: #222;
