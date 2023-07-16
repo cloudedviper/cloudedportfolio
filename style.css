@@ -317,7 +317,7 @@ html {
   height: 100px;
   background-color: rgb(46, 9, 167);
   animation-name: left;
-  animation-duration: 44s;
+  animation-duration: 24s;
 }
   #skill .skill--content .left h2 {
     font-size: 36px;
