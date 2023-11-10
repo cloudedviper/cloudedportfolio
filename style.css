@@ -90,7 +90,7 @@ html {
   }
   .site-header .nav-logo a img {
     max-width: 200px;
-    height: auto
+    height: 50px;
   }
   @media screen and (min-width: 768px) {
     .site-header .nav-logo a img {
