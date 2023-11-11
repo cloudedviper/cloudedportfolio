@@ -89,8 +89,8 @@ html {
     padding: 10px 5px 5px;
   }
   .site-header .nav-logo a img {
-    max-width: 200px;
-    height: 50px;
+    max-width: 100px;
+    height: 30px;
   }
   @media screen and (min-width: 768px) {
     .site-header .nav-logo a img {
@@ -170,7 +170,7 @@ html {
     display: block;
   }
   .banner {
-    padding: 90px 15px;
+    padding: 10px 10px;
     background-color: #93E9BE;
     background-image: linear-gradient(147deg, #3cb58f 0%, #000000 74%);
     text-align: center;
