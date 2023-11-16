@@ -459,7 +459,7 @@ html {
     transition: all 0.8s ease-in-out;
   }
   #portfolio .portfolio--content .item h3 {
-    color: #FFF;
+    color: #f5f0f0;
     font-weight: 700;
     text-transform: uppercase;
     position: absolute;
