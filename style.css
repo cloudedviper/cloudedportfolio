@@ -309,7 +309,7 @@ html {
   /* The animation code */
 @keyframes left {
   from {background-color: rgb(46, 9, 167);}
-  to {background-color: yellow;}
+  to {background-color: rgb(255, 38, 0);}
 }
 /* The element to apply the animation to */
 .left {
