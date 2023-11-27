@@ -7,7 +7,7 @@ html {
   }
   body {
     margin: 0;
-    font-family: 'Oxygen', sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     position: relative;
   }
   section {
@@ -19,7 +19,7 @@ html {
     margin: 0 auto;
   }
   p {
-    font-size: 18px;
+    font-size: 36px;
     margin: 5px 0 10px;
   }
   .bold {
@@ -29,7 +29,7 @@ html {
     color: #f32905;
   }
   h2 {
-    font-size: 36px;
+    font-size: 18px;
     margin: 5px 0 10px;
   }
   @media screen and (min-width: 768px) {
@@ -37,6 +37,10 @@ html {
       font-size: 70px;
       color: #220785;
       font-weight: 700;
+    }
+  h4 {
+      font-size: 18px;
+      margin: 5px 0 10px;
     }
   }
   img {
@@ -195,7 +199,7 @@ html {
     text-transform: uppercase;
     font-family: 'Oxygen', sans-serif;
     font-weight: 700;
-    font-size: 36px;
+    font-size: 18px;
     margin: 0;
   }
   @media screen and (min-width: 768px) {
