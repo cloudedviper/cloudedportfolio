@@ -28,19 +28,12 @@ html {
   .orange {
     color: #f32905;
   }
-  h2 {
-    font-size: 18px;
-    margin: 5px 0 10px;
-  }
+
   @media screen and (min-width: 768px) {
     h2 {
       font-size: 70px;
       color: #220785;
       font-weight: 700;
-    }
-  h4 {
-      font-size: 18px;
-      margin: 5px 0 10px;
     }
   }
   img {
@@ -199,7 +192,7 @@ html {
     text-transform: uppercase;
     font-family: 'Oxygen', sans-serif;
     font-weight: 700;
-    font-size: 18px;
+    font-size: smaller;
     margin: 0;
   }
   @media screen and (min-width: 768px) {
@@ -208,7 +201,7 @@ html {
     }
   }
   .banner .banner--content .tagline {
-    font-size: 18px;
+    font-size: x-small;
   }
   @media screen and (min-width: 768px) {
     .banner .banner--content .tagline {
