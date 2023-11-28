@@ -184,16 +184,16 @@ html {
     background-size: contain;
   }
   .banner .banner--content .name {
-    text-transform: uppercase;
+    text-transform: capitalize;
     font-size: 27px;
   }
   .banner .banner--content .designation {
     color: #0047ab;
-    text-transform: uppercase;
+    text-transform: capitalize;
     font-family: 'Oxygen', sans-serif;
     font-weight: 700;
     font-size: 1px;
-    margin: 0;
+    margin-top: 1px;
   }
   @media screen and (min-width: 768px) {
     .banner .banner--content .designation {
@@ -201,7 +201,8 @@ html {
     }
   }
   .banner .banner--content .tagline {
-    font-size: x-small;
+    font-size: 2px; /* Adjust the font size if needed */
+    margin: 0;
   }
   @media screen and (min-width: 768px) {
     .banner .banner--content .tagline {
