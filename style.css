@@ -185,14 +185,14 @@ html {
   }
   .banner .banner--content .name {
     text-transform: uppercase;
-    font-size: xx-large;
+    font-size: 27px;
   }
   .banner .banner--content .designation {
     color: #0047ab;
     text-transform: uppercase;
     font-family: 'Oxygen', sans-serif;
     font-weight: 700;
-    font-size: smaller;
+    font-size: 1px;
     margin: 0;
   }
   @media screen and (min-width: 768px) {
