@@ -7,7 +7,7 @@ html {
   }
   body {
     margin: 0;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Arial Narrow Bold', sans-serif;
     position: relative;
   }
   section {
@@ -189,11 +189,11 @@ html {
   }
   .banner .banner--content .designation {
     color: #0047ab;
-    text-transform: capitalize;
+    text-transform: uppercase;
     font-family: 'Oxygen', sans-serif;
     font-weight: 700;
     font-size: 1px;
-    margin-top: 1px;
+    margin-top: 11px;
   }
   @media screen and (min-width: 768px) {
     .banner .banner--content .designation {
@@ -201,8 +201,8 @@ html {
     }
   }
   .banner .banner--content .tagline {
-    font-size: 2px; /* Adjust the font size if needed */
-    margin: 0;
+    font-size: 12px; /* Adjust the font size if needed */
+    margin: 10;
   }
   @media screen and (min-width: 768px) {
     .banner .banner--content .tagline {
