@@ -162,13 +162,35 @@ img {
 
 /* ... (rest of your CSS) */
 
-  .site-header {
+.site-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
   background-color: seagreen;
   color: teal;
+}
+
+.nav-logo {
+  order: 1; /* Set the order to 1 to move it to the start of the flex container */
+}
+
+.hamburger {
+  order: 2; /* Set the order to 2 to move it to the end of the flex container */
+}
+
+.nav-links {
+  order: 3; /* Set the order to 3 to keep it in the middle of the flex container */
+}
+
+/* Add styles to the logo image if needed */
+.nav-logo img {
+  display: block; /* Ensure the image is a block element */
+}
+
+/* Additional styles for the hamburger button if needed */
+.hamburger img {
+  display: block; /* Ensure the image is a block element */
 }
 
 .nav-links {
