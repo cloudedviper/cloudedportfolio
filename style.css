@@ -165,11 +165,43 @@ img {
 .site-header {
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  padding: 1rem;
-  background-color: seagreen;
-  color: teal;
+  align-items: flex-start;
+  padding: 2rem; /* Increased padding for better spacing */
+  background-color: #3498db; /* Use a more vibrant color, you can change this to your preferred color */
+  color: #a74e4e; /* Set text color to white for better contrast */
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow for a lifted effect */
 }
+
+.site-header a {
+  text-decoration: none; /* Remove underlines from links */
+  color: #fff; /* Set link text color to white */
+  margin: 0 1.5rem; /* Add some spacing between navigation links */
+  font-weight: bold; /* Make the text bold for better visibility */
+  transition: color 0.3s ease; /* Add a smooth color transition on hover */
+}
+
+.site-header a:hover {
+  color: #ffcc00; /* Change link color on hover to a contrasting color */
+}
+
+.nav-logo img {
+  max-width: 100%; /* Ensure the logo doesn't overflow its container */
+  height: auto; /* Maintain the aspect ratio of the logo */
+}
+
+.nav-buttons a {
+  padding: 0.5rem 1rem; /* Add padding to the sign-up button */
+  background-color: #ffcc00; /* Set a bright background color for the button */
+  color: #333; /* Set button text color to a dark color for better readability */
+  border-radius: 5px; /* Add rounded corners to the button */
+  text-decoration: none; /* Remove underlines from the button */
+  transition: background-color 0.3s ease; /* Add a smooth background color transition on hover */
+}
+
+.nav-buttons a:hover {
+  background-color: #e5b700; /* Change button background color on hover */
+}
+
 
 .nav-logo {
   order: 1; /* Set the order to 1 to move it to the start of the flex container */
