@@ -168,7 +168,7 @@ img {
   align-items: flex-start;
   padding: 2rem; /* Increased padding for better spacing */
   background-color: #3498db; /* Use a more vibrant color, you can change this to your preferred color */
-  color: #a74e4e; /* Set text color to white for better contrast */
+  color: #4e8ea7; /* Set text color to white for better contrast */
   box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow for a lifted effect */
 }
 
