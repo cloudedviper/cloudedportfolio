@@ -395,7 +395,7 @@ img {
   /* The animation code */
 @keyframes left {
   from {background-color: rgb(46, 9, 167);}
-  to {background-color: rgb(107, 4, 4);}
+  to {background-color: rgb(229, 86, 9);}
 }
 /* The element to apply the animation to */
 .left {
