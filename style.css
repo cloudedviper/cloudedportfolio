@@ -489,7 +489,7 @@ img {
     margin: 0 auto;
   }
   #service .service--content .item p {
-    font-style: italic;
+    font-style: normal;
     display: block;
     margin-bottom: 30px;
     text-shadow: 0 1px 2px #222;
