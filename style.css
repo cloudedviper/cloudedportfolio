@@ -1,7 +1,7 @@
 
 body {
   margin: 0;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   position: relative;
 }
 
@@ -24,7 +24,7 @@ p {
 }
 
 .orange {
-  color: #fd2802;
+  color: #c92a0e;
 }
 
 @media screen and (min-width: 768px) {
