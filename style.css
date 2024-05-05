@@ -540,7 +540,7 @@ img {
     -ms-flex-preferred-size: 50%;
         flex-basis: 50%;
     position: relative;
-    background-color: #cb2027;
+    background-color: #a70b10;
     -webkit-transition: all 0.8s ease-in-out;
     transition: all 0.8s ease-in-out;
   }
