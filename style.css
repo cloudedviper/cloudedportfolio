@@ -45,13 +45,13 @@ img {
 
 .site-header {
   z-index: 10;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Cambria, Cochin, Georgia, 'Times New Roman', serif;
   display: flex;
   flex-direction: column;
   align-items: center;
   position: sticky;
   top: 0;
-  background-color: #25b89d;
+  background-color: #25b89e;
   height: 60px; /* Adjust the height as needed */
 
 }
