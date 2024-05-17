@@ -191,7 +191,7 @@ img {
 .nav-buttons a {
   padding: 0.5rem 1rem; /* Add padding to the sign-up button */
   background-color: #ffcc00; /* Set a bright background color for the button */
-  color: #333; /* Set button text color to a dark color for better readability */
+  color: #070606; /* Set button text color to a dark color for better readability */
   border-radius: 5px; /* Add rounded corners to the button */
   text-decoration: none; /* Remove underlines from the button */
   transition: background-color 0.3s ease; /* Add a smooth background color transition on hover */
