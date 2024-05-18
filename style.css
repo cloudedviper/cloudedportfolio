@@ -288,7 +288,7 @@ img {
     }
   }
   .banner .banner--content .tagline {
-    font-size: 12px; /* Adjust the font size if needed */
+    font-size: 13px; /* Adjust the font size if needed */
     margin: 10;
   }
   @media screen and (min-width: 768px) {
