@@ -402,7 +402,7 @@ img {
   height: 100px;
   background-color: rgb(46, 9, 167);
   animation-name: left;
-  animation-duration: 24s;
+  animation-duration: 20s;
 }
   #skill .skill--content .left h2 {
     font-size: 36px;
