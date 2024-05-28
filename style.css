@@ -470,8 +470,8 @@ img {
     border: 1px solid #E9EBEC;
     padding: 20px 10px 40px;
     margin-bottom: 30px;
-    -webkit-transition: background-color 0.8s ease-in;
-    transition: background-color 0.8s ease-in;
+    -webkit-transition: background-color 0.7s ease-in;
+    transition: background-color 0.7s ease-in;
   }
   @media screen and (min-width: 768px) {
     #service .service--content .item {
