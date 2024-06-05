@@ -633,7 +633,7 @@ img {
     -ms-flex-preferred-size: 32%;
         flex-basis: 32%;
     border: 1px solid #848484;
-    border-radius: 3px;
+    border-radius: 2px;
     padding: 20px 10px 30px;
     margin-bottom: 30px;
   }
