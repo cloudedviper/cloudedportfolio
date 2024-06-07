@@ -648,7 +648,7 @@ img {
     font-weight: 700;
   }
   #pricing .pricing--content .item img {
-    max-width: 200px;
+    max-width: 300px;
     height: auto;
     display: block;
     margin: 0 auto;
